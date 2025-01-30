@@ -1,0 +1,4 @@
+.env
+#remove node module filder
+node_modules/
+config/
